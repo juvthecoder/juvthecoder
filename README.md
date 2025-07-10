@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juvthecoder
 - 👀 I’m interested in learning how to be the best developer I can be;
-- 🌱 I’m currently learning C++, and learning java or python next;
+- 🌱 I’m currently learning python, ;
 - 💞️ I’m looking to collaborate on any beginner projects that can help me grow;
 - 📫 How to reach me can reach me on github @juvthecoder;
 - ⚡ Fun fact: I love to learn.
